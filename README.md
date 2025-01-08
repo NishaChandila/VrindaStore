@@ -32,16 +32,16 @@ DATASET PREVIEW
 
 With this dataset, we aim to uncover patterns, understand customer dynamics, and drive strategic business decisions.
 
-[Dataset here]()  
+![Dataset here](https://github.com/NishaChandila/project-assets/blob/main/vrinda-dataset.PNG)  
 
 ---
 
 ## Executive Summary
 This report provides a comprehensive analysis of the company’s sales performance, customer behavior, and product trends. It highlights key strengths, opportunities for growth, and actionable insights to optimize business strategies.
-[home]()
+![Home](https://github.com/NishaChandila/project-assets/blob/main/vrinda1.PNG)
 
 ### Customer and Sales Insights
-[Customer]()
+![Customer](https://github.com/NishaChandila/project-assets/blob/main/vrinda2.PNG)
 - **Key Metrics**: Total sales of 31M from 31,047 orders, with an Average Order Value (AOV) of 682.07, serving 31K customers.
 - **Sales Channels**: Amazon (7.52M), Myntra (4.94M), and Flipkart (4.57M) are the top-performing platforms.
 - **Regional Insights**: Bengaluru (1.77M), Hyderabad (1.37M), and New Delhi (1.16M) lead in sales.
@@ -49,12 +49,12 @@ This report provides a comprehensive analysis of the company’s sales performan
 - **Order Type**: Non-B2B transactions dominate (99.4%), while B2B sales make up just 0.6%.
 
 ### Product and Sales Performance
-[Product]()
+![Product](https://github.com/NishaChandila/project-assets/blob/main/vrinda3.PNG)
 - **Size Preferences**: The most popular sizes are M (3.77M), L (3.45M), and XL (2.95M), with niche sizes like 6XL contributing modestly.
 - **Top Product Categories**: Sets (10.5M), kurtas (4.95M), and western dresses (3.15M) are customer favorites.
 - **Sales Trend**: Steady growth observed, peaking in May (7.42M).
 
-[Dataset here]()  
+[Dataset here](https://github.com/NishaChandila/VrindaStore/blob/main/Vrinda%20Store.csv)  
 [Excel Dashboard here]()
 
 ---
