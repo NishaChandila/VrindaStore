@@ -8,8 +8,8 @@ Every dataset tells a story, and this one is no different. As a data analyst, my
 
 Through careful analysis and visualization, we will transform raw numbers into meaningful insights, helping stakeholders make informed decisions to boost sales, refine strategies, and meet customer needs more effectively. This is the story of your business, told through data.
 
-[Dataset here]()  
-[Excel Dashboard here]()
+- VrindaStore [Dataset here](https://github.com/NishaChandila/VrindaStore/blob/main/Vrinda%20Store.csv)  
+- VrindaStore [Excel Dashboard here](https://github.com/NishaChandila/VrindaStore/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
 
 ---
 
@@ -17,7 +17,6 @@ Through careful analysis and visualization, we will transform raw numbers into m
 This dataset serves as a guide through the company's sales ecosystem, offering insights into customer behavior, product performance, and sales trends. Each column reveals a unique aspect of the business:
 
 DATASET PREVIEW 
-[DATASET]()
 
 - **Order ID**: Unique identifier for each transaction.
 - **Customer ID**: Links orders to individual customers.
@@ -32,7 +31,8 @@ DATASET PREVIEW
 
 With this dataset, we aim to uncover patterns, understand customer dynamics, and drive strategic business decisions.
 
-![Dataset here](https://github.com/NishaChandila/project-assets/blob/main/vrinda-dataset.PNG)  
+- VrindaStore [Dataset here](https://github.com/NishaChandila/VrindaStore/blob/main/Vrinda%20Store.csv)  
+- VrindaStore [Excel Dashboard here](https://github.com/NishaChandila/VrindaStore/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
 
 ---
 
@@ -54,16 +54,10 @@ This report provides a comprehensive analysis of the company’s sales performan
 - **Top Product Categories**: Sets (10.5M), kurtas (4.95M), and western dresses (3.15M) are customer favorites.
 - **Sales Trend**: Steady growth observed, peaking in May (7.42M).
 
-[Dataset here](https://github.com/NishaChandila/VrindaStore/blob/main/Vrinda%20Store.csv)  
-[Excel Dashboard here]()
+- VrindaStore [Dataset here](https://github.com/NishaChandila/VrindaStore/blob/main/Vrinda%20Store.csv)  
+- VrindaStore [Excel Dashboard here](https://github.com/NishaChandila/VrindaStore/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
 
 ---
-
-## Recommendations
-Our analysis highlights actionable opportunities to optimize business strategies and unlock growth.
-
-### Summary
-The data reveals the importance of leveraging high-performing customer segments, regions, and product categories while nurturing potential in smaller, untapped areas. Strategic investments in targeted campaigns, niche offerings, and regional focus can drive sustainable growth.
 
 ### Key Recommendations
 - **Enhance Customer Focus**: Target female customers and explore tailored strategies for teenagers and seniors to maximize engagement.
@@ -78,5 +72,5 @@ The data reveals the importance of leveraging high-performing customer segments,
 ## Conclusion
 Our analysis has unveiled critical insights into customer behavior and sales trends. From dominant product categories and customer demographics to high-performing regions and platforms, the data provides a roadmap for strategic growth. By capitalizing on these insights and continuously adapting to evolving market trends, the company can strengthen its market position and achieve sustained success.
 
-[Dataset here]()  
-[Excel Dashboard here]()
+- VrindaStore [Dataset here](https://github.com/NishaChandila/VrindaStore/blob/main/Vrinda%20Store.csv)  
+- VrindaStore [Excel Dashboard here](https://github.com/NishaChandila/VrindaStore/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
